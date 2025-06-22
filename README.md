@@ -4,8 +4,11 @@ This is an end-to-end automated test suite for [SauceDemo](https://www.saucedemo
 
 ## Tech Stack
 Language: JavaScript
+
 Framework: WebdriverIO
+
 Browser: Chrome (via Chromedriver)
+
 Reporting: Allure
 
 
