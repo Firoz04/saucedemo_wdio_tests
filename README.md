@@ -1,8 +1,8 @@
-SauceDemo(Swag Labs) Automation Testing with WebdriverIO
+# SauceDemo(Swag Labs) Automation Testing with WebdriverIO
 
 This is an end-to-end automated test suite for [SauceDemo](https://www.saucedemo.com) using WebdriverIO, JavaScript, and Allure Reports.
 
-# Tech Stack
+## Tech Stack
 Language: JavaScript
 Framework: WebdriverIO
 Browser: Chrome (via Chromedriver)
@@ -11,12 +11,12 @@ Reporting: Allure
 
 # Test Scenarios
 
-# Q1: Locked Out User Login Test
+## Q1: Locked Out User Login Test
 - Try to log in with username: `locked_out_user` and password: `secret_sauce`
 - Verify the displayed error message matches the expected login failure notice
 
 
-# Q2: Standard User Checkout Flow
+## Q2: Standard User Checkout Flow
 - Log in with username: `standard_user` and password: `secret_sauce`
 - Reset the App State from the hamburger menu
 - Add any three items to the cart
@@ -29,7 +29,7 @@ Reporting: Allure
 - Reset App State again and log out
 
 
-# Q3: Performance Glitch User Filter & Checkout Flow
+## Q3: Performance Glitch User Filter & Checkout Flow
 - Log in with username: `performance_glitch_user` and password: `secret_sauce`
 - Reset the App State
 - Apply filter: Name (Z to A)
