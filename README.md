@@ -9,7 +9,7 @@ Browser: Chrome (via Chromedriver)
 Reporting: Allure
 
 
-#Test Scenarios
+# Test Scenarios
 
 # Q1: Locked Out User Login Test
 - Try to log in with username: `locked_out_user` and password: `secret_sauce`
