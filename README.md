@@ -46,7 +46,9 @@ Reporting: Allure
 - Reset App State again and log out
 
 # Author
-Md. Firoz Hasan
+
+Md. Firoz Hasan  
+GitHub: [Firoz04](https://github.com/Firoz04)
 
 Thank You!
 
